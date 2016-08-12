@@ -1,25 +1,18 @@
 # README
 
 Checkly is a simple To-Do App built on Rails.
+https://mycheckly.herokuapp.com/
 
 Things you may want to cover:
 
-* Ruby version
+* Create Todo lists
 
-* System dependencies
+* Add specific items to each Todo list
 
-* Configuration
+* Edit Todo lists and todo list items
 
-* Database creation
+* Update Todo lists
 
-* Database initialization
+* Delete Todo lists and items
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-"# todo" 
-"# todo" 
+* Check off Todo list items as you complete them
