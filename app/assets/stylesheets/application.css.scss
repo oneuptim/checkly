@@ -28,11 +28,11 @@ html {
 
 body {
  	height: 100%;
-  background: -webkit-linear-gradient(40deg, #10FB17 10%, #EAECC6 100%);
-  background:    -moz-linear-gradient(40deg, #10FB17 10%, #EAECC6 100%);
-  background:     -ms-linear-gradient(40deg, #10FB17 10%, #EAECC6 100%);
-  background:      -o-linear-gradient(40deg, #10FB17 10%, #EAECC6 100%);
-  background:         linear-gradient(40deg, #10FB17 10%, #EAECC6 100%);
+  background: -webkit-linear-gradient(40deg, #0DA5EC 10%, #E6ECEC 100%);
+  background:    -moz-linear-gradient(40deg, #0DA5EC 10%, #E6ECEC 100%);
+  background:     -ms-linear-gradient(40deg, #0DA5EC 10%, #E6ECEC 100%);
+  background:      -o-linear-gradient(40deg, #0DA5EC 10%, #E6ECEC 100%);
+  background:         linear-gradient(40deg, #0DA5EC 10%, #E6ECEC 100%);
   font-family: 'Lato', sans-serif;
 }
 
@@ -53,11 +53,20 @@ body {
 	font-weight: 100;
 }
 
+.logo {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-weight: 100;
+	font-size: 3.5rem;
+	color: #3f5865;
+	margin: 0;
+}
+
 .container {
 	width: 50%;
 	max-width: 750px;
 	background: $white_opaque;
-	margin: 3em auto 0 auto;
+	margin: 1em auto 0 auto;
 	border-radius: 7px;
 	-webkit-box-shadow: 0 0 4px 3px rgba(0,0,0,.3);
 	box-shadow: 0 0 4px 4px rgba(0,0,0,.03);
