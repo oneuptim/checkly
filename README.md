@@ -1,7 +1,7 @@
 # README
 
 Checkly is a simple To-Do App built on Rails.</br>
-VISIT: https://mycheckly.herokuapp.com/
+https://mycheckly.herokuapp.com/
 
 Things you may want to cover:
 
