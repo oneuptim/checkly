@@ -1,6 +1,6 @@
 # README
 
-A simple To-Do App built on Rails.
+Checkly is a simple To-Do App built on Rails.
 
 Things you may want to cover:
 
