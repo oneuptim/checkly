@@ -60,6 +60,28 @@ body {
 	font-size: 3.5rem;
 	color: #3f5865;
 	margin: 0;
+	text-decoration: none;
+}
+
+.logo a {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-weight: 100;
+	font-size: 3.5rem;
+	color: #3f5865;
+	margin: 0;
+	text-decoration: none;
+}
+
+.logo a:hover {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-weight: 100;
+	font-size: 3.5rem;
+	color: #7da0b3;
+	margin: 0;
+	text-decoration: none;
+	transition: all 0.5s ease-in-out;
 }
 
 
